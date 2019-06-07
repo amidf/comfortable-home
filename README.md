@@ -1,1 +1,3 @@
-dist
+# Comfortable Home
+
+Simple site to practice.
